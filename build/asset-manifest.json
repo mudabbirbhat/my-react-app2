@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32dbeb6c.css",
+    "main.js": "/static/js/main.fa972631.js",
+    "static/media/strength_image.png": "/static/media/strength_image.353c9403b9b895e830da.png",
+    "static/media/Mobility_image.jpg": "/static/media/Mobility_image.2314a35d4bc2476235fd.jpg",
+    "static/media/drills_image.jpeg": "/static/media/drills_image.5852aa81f4c7d16f2312.jpeg",
+    "index.html": "/index.html",
+    "main.32dbeb6c.css.map": "/static/css/main.32dbeb6c.css.map",
+    "main.fa972631.js.map": "/static/js/main.fa972631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32dbeb6c.css",
+    "static/js/main.fa972631.js"
+  ]
+}
